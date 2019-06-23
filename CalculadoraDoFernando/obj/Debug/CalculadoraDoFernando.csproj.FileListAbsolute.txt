@@ -1,0 +1,10 @@
+C:\Users\ferna\source\repos\CalculadoraDoFernando\CalculadoraDoFernando\bin\Debug\CalculadoraDoFernando.exe.config
+C:\Users\ferna\source\repos\CalculadoraDoFernando\CalculadoraDoFernando\bin\Debug\CalculadoraDoFernando.exe
+C:\Users\ferna\source\repos\CalculadoraDoFernando\CalculadoraDoFernando\bin\Debug\CalculadoraDoFernando.pdb
+C:\Users\ferna\source\repos\CalculadoraDoFernando\CalculadoraDoFernando\obj\Debug\CalculadoraDoFernando.csprojAssemblyReference.cache
+C:\Users\ferna\source\repos\CalculadoraDoFernando\CalculadoraDoFernando\obj\Debug\CalculadoraDoFernando.Form1.resources
+C:\Users\ferna\source\repos\CalculadoraDoFernando\CalculadoraDoFernando\obj\Debug\CalculadoraDoFernando.Properties.Resources.resources
+C:\Users\ferna\source\repos\CalculadoraDoFernando\CalculadoraDoFernando\obj\Debug\CalculadoraDoFernando.csproj.GenerateResource.cache
+C:\Users\ferna\source\repos\CalculadoraDoFernando\CalculadoraDoFernando\obj\Debug\CalculadoraDoFernando.csproj.CoreCompileInputs.cache
+C:\Users\ferna\source\repos\CalculadoraDoFernando\CalculadoraDoFernando\obj\Debug\CalculadoraDoFernando.exe
+C:\Users\ferna\source\repos\CalculadoraDoFernando\CalculadoraDoFernando\obj\Debug\CalculadoraDoFernando.pdb
